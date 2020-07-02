@@ -8,3 +8,7 @@ C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.cspr
 C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.csproj.CoreCompileInputs.cache
 C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.exe
 C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.pdb
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.csproj.CopyComplete

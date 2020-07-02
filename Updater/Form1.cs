@@ -12,6 +12,7 @@ namespace Updater
 {
     public partial class Form1 : Form
     {
+        
         public Form1()
         {
             InitializeComponent();
@@ -19,7 +20,13 @@ namespace Updater
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            comboBox1.Items.Add();
+        }
+
+        //UPDATE
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Update upd = new Update(textBox1.Text);
+            upd.UpdaterFunc();
         }
     }
 }
