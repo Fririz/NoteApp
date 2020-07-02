@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace NoteAppNew.Properties
+namespace Updater.Properties
 {
 
 

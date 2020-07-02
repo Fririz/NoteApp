@@ -1,0 +1,10 @@
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\bin\Debug\Updater.exe.config
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\bin\Debug\Updater.exe
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\bin\Debug\Updater.pdb
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.csprojAssemblyReference.cache
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.Form1.resources
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.Properties.Resources.resources
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.csproj.GenerateResource.cache
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.csproj.CoreCompileInputs.cache
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.exe
+C:\IconProg\1\Folders\С_sharp\MyProjects\NoteApp\Updater\obj\Debug\Updater.pdb
